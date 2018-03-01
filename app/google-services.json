@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375714583528",
+    "firebase_url": "https://luis-nava-example.firebaseio.com",
+    "project_id": "luis-nava-example",
+    "storage_bucket": "luis-nava-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375714583528:android:12abd8a12e404567",
+        "android_client_info": {
+          "package_name": "example.luisnava.com.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375714583528-0i4i5l2m01lm3o6i9ds6rm9nh92ppuhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.luisnava.com.firebaseexample",
+            "certificate_hash": "bd6b9a89ba5f87637a9ec6e21a82e812a7fe2abd"
+          }
+        },
+        {
+          "client_id": "375714583528-l2bedmaniclio35sdr0ag9fa04me6ism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmLnuOgyqV3VPGB4aX8Kqr144F6GUeo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375714583528-l2bedmaniclio35sdr0ag9fa04me6ism.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

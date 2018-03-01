@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_stores"
+            android:icon="@drawable/ic_store_black_24dp"
+            android:title="Stores" />
+        <item
+            android:id="@+id/nav_addStores"
+            android:icon="@drawable/ic_add_circle_outline_black_24dp"
+            android:title="Add Store" />
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="Maps" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_cancel_black_24dp"
+            android:title="Sign Out" />
+
+    </group>
+
+</menu>
